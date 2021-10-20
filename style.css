@@ -679,7 +679,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -743,6 +743,7 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  width: 100%;
 }
 
 .portfolio-row {
@@ -777,17 +778,17 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fcede8 !important;
 }
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #ffffff !important;
+  color: #1a1a1a !important;
 }
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
-  color: #ffffff !important;
+  color: #1a1a1a !important;
 }
 
 .ltc-white {
