@@ -919,6 +919,8 @@ h4 {
   .navbar.row {
     margin-left: 0;
     margin-right: 0;
+    display: flex;
+    justify-content: space-between;
   }
   .site-navigation {
     position: inherit;
